@@ -6,7 +6,7 @@ appVersionCode = "1"
 appVersionName = "2026.4.0"
 
 # SDK Versions
-compileSdk = "36"
+compileSdk = "37"
 targetSdk = "36"
 minSdk = "29"
 minSdkBwa = "28"
